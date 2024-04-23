@@ -1,0 +1,7 @@
+flask
+grpcio-tools
+imagination
+opentelemetry-distro
+opentelemetry-exporter-otlp
+pydantic
+requests
